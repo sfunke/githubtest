@@ -1,5 +1,5 @@
 # What?
-This is the development branch.
+This is the master branch
 
 # Purpose?
-All developing goes here
+Here go all stable release versions
